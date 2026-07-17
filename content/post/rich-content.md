@@ -23,8 +23,6 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Simple Shortcode
 
-{{< x user="getbootstrap" id="1085870671291310081" >}}
-
 <br>
 
 ---

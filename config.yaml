@@ -2,7 +2,6 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 locale: "en-US"
 title: "Car-Web"
-
 # googleAnalytics: ""
 
 summaryLength: 20
