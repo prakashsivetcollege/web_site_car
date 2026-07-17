@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Drive your **Dream** Car"
+  text: "Discover premium vehicles designed for performance, comfort, and style. From modern city cars to powerful SUVs, we help you find the perfect vehicle with trusted service, flexible financing, and expert support."
+
+  buttonPrimary:
+    label: "Explore Cars"
+    url: "https://www.carwale.com/new-cars/"
+
+  buttonSecondary:
+    label: "Book a Test Drive"
+    url: "https://cars.tatamotors.com/book-test-drive/landing.html"
+

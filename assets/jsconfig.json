@@ -1,0 +1,9 @@
+{
+ "compilerOptions": {
+  "paths": {
+   "*": [
+    "..\\themes\\up-business-theme\\assets\\*"
+   ]
+  }
+ }
+}

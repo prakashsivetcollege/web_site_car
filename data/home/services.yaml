@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "We provide reliable automotive solutions, from vehicle sales and maintenance to financing and roadside assistance. Our team is committed to keeping you on the road with confidence."
+  cards:
+    - image: "images/lskdf.png"
+      title: "New & Used Car Sales"
+      text: "Browse our wide selection of quality new and pre-owned vehicles from leading brands. Find the perfect car to match your lifestyle and budget. "
+      button:
+        label: "View Inventory"
+        url: "https://www.carwale.com/"
+
+    - image: "images/maintanace.png"
+      title: "Vehicle Maintanance"
+      text: "Keep your car in peak condition with professional servicing, oil changes, brake inspections, tire replacements, and complete vehicle diagnostics."
+      button:
+        label: "Book Services"
+        url: "https://gomechanic.in/"
+
+    - image: "images/sdfafjkl.png"
+      title: "Car Financing"
+      text: "Enjoy flexible financing and insurance options with competitive rates, making it easier to own your dream vehicle  for you..                                                                                       "
+      button:
+        label: "Learn more"
+        url: "https://bloggers.feedspot.com/car_finance_blogs/"

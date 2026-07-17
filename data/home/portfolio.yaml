@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/tata.png"
+    pretitle: "Base varient"
+    title: "TATA Sierra"
+    text: "The iconic Tata Sierra name has returned as a compact SUV in one of the most competitive market segments. Its unique form factor, triple-screen dashboard, 12-speaker JBL system with soundbar, Level 2 ADAS, a huge panoramic sunroof and three 1.5-litre engine options (turbo-petrol, NA petrol and turbo-diesel) make it a worthy choice."
+
+    buttons: 
+      - label: "See live"
+        url: "https://www.carwale.com/tata-cars/sierra/360-view/"
+
+      - label: "Read more"
+        url: "https://www.carwale.com/tata-cars/sierra/"
+
+  - image: "images/hyundai-verna-3.png"
+    pretitle: "Mid varient"
+    title: "Hyundai Verna 2023-2026 SX Opt Turbo DCT DT"
+    text: "Hyundai Verna 2023-2026 is available in 7 different colours - Fiery Red, Starry Night, Atlas White, Atlas White With Abyss Black, Titan Grey, Amazon Grey and Abyss Black."
+
+    buttons: 
+      - label: "See live"
+        url: "https://www.carwale.com/hyundai-cars/verna/360-view/"
+
+      - label: "Read more"
+        url: "https://www.zigwheels.com/hyundai-cars/verna-2023-2026/specifications"
+
+  - image: "images/Fire-red.png"
+    pretitle: "High varient"
+    title: "BMW M5"
+    text: "The BMW M5 has 1 Petrol Engine on offer. The Petrol engine is 4395 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the M5 has a mileage of 49.75 kmpl. The M5 is a 5 seater 8 cylinder car and has length of 4983 mm and width of 1903 mm."
+
+    buttons: 
+      - label: "See live"
+        url: "https://www.carwale.com/bmw-cars/5-series/360-view/"
+
+      - label: "Read more"
+        url: "https://www.cardekho.com/bmw/m5/specs"

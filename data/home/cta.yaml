@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Drive Home Your Dream Car Today!"
+  image: "images/showroom.png"
+  button:
+    label: "Browse Cars"
+    url: "https://www.carwale.com/"

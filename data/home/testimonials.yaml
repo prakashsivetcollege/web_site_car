@@ -1,0 +1,26 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    image: "images/testimonials-awards.png"
+    text: "Over 1,000 Cars Sold! 🚗  We've proudly delivered 1,000+ vehicles to satisfied customers. Whether you're buying your first car or upgrading to your next one, we're here to make the process simple, secure, and hassle-free. Every vehicle is carefully inspected to ensure quality, reliability, and value for your investment. Our dedicated team provides honest guidance and personalized support from start to finish. Drive away with confidence, knowing you've chosen a dealership trusted by thousands of happy customers."
+    client: "  Car-Web"
+
+  list:
+    - text: "⭐⭐⭐⭐⭐ Buying my car was a smooth and stress-free experience. The team was professional, transparent, and helped me find the perfect vehicle within my budget. Highly recommended!."
+      client: "Rahul Sharma"
+
+    - text: "⭐⭐⭐⭐    Excellent customer service from start to finish. The car was exactly as described, and the entire paperwork process was quick and hassle-free. I'm extremely happy with my purchase."
+      client: "Priya Patel"
+
+    - text: "⭐⭐⭐⭐⭐ I was impressed by the wide selection of quality cars and competitive pricing. The staff answered all my questions honestly, making me feel confident in my decision."
+      client: "Arjun Kumar"
+
+    - text: "⭐⭐⭐⭐⭐ This was the easiest car-buying experience I've ever had. The vehicle was in excellent condition, and the after-sales support was outstanding. I would definitely buy from them again."
+      client: "Sneha Reddy"
+
+    - text: "⭐⭐⭐⭐ Great experience! The team was friendly, knowledgeable, and never pressured me into making a decision. I found the perfect car at a great price."
+      client: "Vikram Singh"
