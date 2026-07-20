@@ -26,6 +26,9 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: Verify SEO template
+        run: grep -R "Site.GoogleAnalytics" themes/up-business-theme/layouts || true
+
       - name: Build
         run: hugo --minify
 
