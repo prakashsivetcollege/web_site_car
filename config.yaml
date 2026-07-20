@@ -11,7 +11,7 @@ params:
   description: "We specialize in helping customers find their perfect vehicles by offering a wide range of quality cars, transparent deals, and reliable support. From selection to delivery, we make your car-buying experience simple and hassle-free."
   images: 
    - "images/hero-image.png"
-  logo: "images/vecteezy_white-sport-car-on-transparent-background-3d-rendering_25305431o.png"
+  logo: "images/favicon.png"
 
   favicons:
     themeColor: "#FFFFFF"
