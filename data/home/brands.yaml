@@ -4,8 +4,17 @@ id: "brands"
 content:
   title: "Your Trusted Automotive Partner .. "
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - image: "images/brands-samsumg.png"
+      url:   "https://www.toyotabharat.com/"
+
+    - image: "images/brands-google.png"
+      url:   "https://www.mercedes-benz.co.in/"
+
+    - image: "images/brands-adobe.png"
+      url:   "https://www.ford.com/"
+
+    - image: "images/brands-spotify.png"
+      url:   "https://www.audi.in/en/"
+
+    - image: "images/brands-dropbox.png"
+      url:   "https://www.hondacarindia.com/"
